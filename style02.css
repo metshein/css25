@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    max-width: 1200px;
+    margin: auto;
+}
+
+
+.header{
+    line-height: 60px;
+    background-color: #444;
+}
+
+.logo{
+    background-color: #ff3600;
+    color: #fff;
+    display: block;
+    float: left;
+}
+
+.nav{
+    line-height: 60px;
+    height: 60px;
+    background-color: #444;
+}
+
+.nav a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav ul{
+    list-style-type: none;
+}
+
+.nav li{
+    display: block;
+    float: left;
+}
+
